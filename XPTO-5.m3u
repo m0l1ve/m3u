@@ -1,0 +1,277 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-1.png",· RTP 1
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58778.ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-1.png",· RTP 1
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58777.ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-2.png",· RTP 2
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58780.ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-2.png",· RTP 2
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58779.ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="sichd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic.webp",· SIC
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58796.ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="sichd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic.webp",· SIC
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58795.ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvi.webp",· TVI
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58788.ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvi.webp",· TVI
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58789.ts
+#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-noticias.png",· SIC Notícias
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58798.ts
+#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-noticias.png",· SIC Notícias
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58797.ts
+#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-3.png",· RTP 3
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58782.ts
+#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-3.png",· RTP 3
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58781.ts
+#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cnn-portugal.png",· CNN Portugal
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58790.ts
+#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="cmtvhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cm-tv.png",· CMTV
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58806.ts
+#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="cmtvhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cm-tv.png",· CMTV
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58805.ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="globohd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/globo.png",· Globo
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58791.ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="tvificcao.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvi-ficcao.png",· TVI Ficção
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58787.ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="tvireality.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvi-reality.png",· TVI Reality
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58847.ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="portochd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/porto-canal.png",· Porto Canal
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58868.ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="portochd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/porto-canal.png",· Porto Canal
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58867.ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="sicchd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-caras.png",· SIC Caras
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58799.ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="sicchd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-caras.png",· SIC Caras
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58800.ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="sicmhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-mulher.png",· SIC Mulher
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58803.ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="sicmhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-mulher.png",· SIC Mulher
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58804.ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="sicrhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-radical.png",· SIC Radical
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58802.ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="sicrhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-radical.png",· SIC Radical
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58801.ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="rtpmem.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-memoria.png",· RTP Memória
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58783.ts
+#EXTINF:-1 tvg-chno="52" group-title="Culinária" tvg-id="24khd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/24kitchen.png",· 24 Kitchen
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58842.ts
+#EXTINF:-1 tvg-chno="52" group-title="Culinária" tvg-id="24khd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/24kitchen.png",· 24 Kitchen
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58843.ts
+#EXTINF:-1 tvg-chno="52" group-title="Culinária" tvg-id="tfnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/food-network.png",· Food Network
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58845.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="canal11hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/canal-11.png",· Canal 11
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/48564.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sptv-plushd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv+.png",· SPORT TV +
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58878.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sptv1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv1.png",· SPORT TV 1
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/31368.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sptv1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv1.png",· SPORT TV 1
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58879.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sptv2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv2.png",· SPORT TV 2
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58880.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sptv2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv2.png",· SPORT TV 2
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58881.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sptv3hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv3.png",· SPORT TV 3
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58882.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sptv3hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv3.png",· SPORT TV 3
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58883.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sptv4hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv4.png",· SPORT TV 4
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58884.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sptv4hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv4.png",· SPORT TV 4
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58885.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sptv5hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv5.png",· SPORT TV 5
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58886.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sptv5hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv5.png",· SPORT TV 5
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58887.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="eursphd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eurosport-1.png",· EUROSPORT 1
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58870.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="eursphd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eurosport-1.png",· EUROSPORT 1
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58871.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="eursp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eurosport-2.png",· EUROSPORT 2
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58872.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="abolatvhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/a-bola-tv.png",· A Bola TV
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58869.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="btv1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/btv.png",· BTV
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58877.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="btv1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/btv.png",· BTV
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/95819.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="scptvhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporting-tv.png",· Sporting TV
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58875.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="eleven1.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-1.png",· ELEVEN SPORTS 1
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58888.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="eleven2.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-2.png",· ELEVEN SPORTS 2
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58889.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="eleven3.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-3.png",· ELEVEN SPORTS 3
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58890.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="eleven4.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-4.png",· ELEVEN SPORTS 4
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58891.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="eleven5.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-5.png",· ELEVEN SPORTS 5
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58892.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="eleven6.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-6.png",· ELEVEN SPORTS 6
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58893.ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="cazaepesca.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/caza-pesca.png",· Caza y Pesca
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58850.ts
+#EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="disney.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/disney-channel.png",· Disney Channel
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58865.ts
+#EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="disneyjrhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/disney-junior.png",· Disney Junior
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58864.ts
+#EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="cnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cartoon-network.png",· Cartoon Network
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58860.ts
+#EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="pandahd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/panda.png",· Canal Panda
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58862.ts
+#EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="pandab.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/biggs.png",· Panda BIGGS
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58863.ts
+#EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="sickhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-k.png",· SIC K
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58858.ts
+#EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="nick.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/nickelodeon.png",· Nickelodeon
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58859.ts
+#EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="babytv.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/babytv.png",· Baby TV
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58861.ts
+#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="hollywhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/hollywod.png",· Hollywood
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58819.ts
+#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="hollywhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/hollywod.png",· Hollywood
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58820.ts
+#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="cinemundohd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cinemundo.png",· CineMundo
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58818.ts
+#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="FoxMovies.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-movies.webp",· Star Movies
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58823.ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="fox.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-channel.webp",· Star Channel
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58829.ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="foxlife.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-life.webp",· Star Life
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58827.ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="foxcrime.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-crime.webp",· Star Crime
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58821.ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="FOXComedy.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-comedy.webp",· Star Comedy
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58825.ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="axnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/axn.png",· AXN
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58835.ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="axnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/axn.png",· AXN
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58836.ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="axnwhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/axn-white.png",· AXN WHITE
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58837.ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="axnwhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/axn-white.png",· AXN WHITE
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58838.ts
+#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="amchd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/amc.png",· AMC
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58834.ts
+#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="amchd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/amc.png",· AMC
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58833.ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="syfyhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/syfy.png",· SYFY
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58831.ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="syfyhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/syfy.png",· SYFY
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58832.ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="tlc.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tlc.png",· TLC
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58830.ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="casaecoz.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/casa-cozinha.png",· Casa e Cozinha
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58844.ts
+#EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="travelhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/travel-channel.png",· Travel Channel
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58854.ts
+#EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="dischd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/discovery.png",· Discovery Channel
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58853.ts
+#EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="ngchd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/national-geographic.png",· National Geographic
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58851.ts
+#EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="ngwhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/national-geographic-wild.png",· National Geographic WILD
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58852.ts
+#EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="histor.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/historia.webp",· Canal História
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58855.ts
+#EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="odisseiahd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/odisseias.png",· Odisseia
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58849.ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="rtpmad.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-madeira.png",· RTP Madeira
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58784.ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="rtpacorhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-acores.png",· RTP Açores
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58785.ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="rtpaf.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-africa.png",· RTP África
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58786.ts
+#EXTINF:-1 tvg-chno="150" group-title="Religião" tvg-id="CANCAONOVA.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cancao-nova.webp",· Canção Nova
+#EXTVLCOPT:http-user-agent=Firefox
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/107845.ts
