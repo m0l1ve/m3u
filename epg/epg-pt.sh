@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /home/runner/work/M3U/iptv-org-epg && npm install
+npm install
 
 # PT EPG
 
