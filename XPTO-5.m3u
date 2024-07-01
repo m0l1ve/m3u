@@ -1,156 +1,132 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="rtp1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-1.png",· RTP 1
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58778.ts
-#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="rtp1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-1.png",· RTP 1
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58777.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62052
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="rtp2.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-2.png",· RTP 2
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58780.ts
-#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="rtp2.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-2.png",· RTP 2
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58779.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62053
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="sic.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic.webp",· SIC
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58796.ts
-#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="sic.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic.webp",· SIC
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58795.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62068
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvi.webp",· TVI
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58788.ts
-#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvi.webp",· TVI
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58789.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62107
 #EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="sicnoticias.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-noticias.png",· SIC Notícias
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58798.ts
-#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="sicnoticias.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-noticias.png",· SIC Notícias
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58797.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62066
 #EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-3.png",· RTP 3
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58782.ts
-#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-3.png",· RTP 3
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58781.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62055
 #EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cnn-portugal.png",· CNN Portugal
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58790.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62105
 #EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="CMTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cm-tv.png",· CMTV
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58806.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61994
 #EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="CMTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cm-tv.png",· CMTV
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58805.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61993
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="TVGlobo.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/globo.png",· Globo
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58791.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62096
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="TVIFiccao.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvi-ficcao.png",· TVI Ficção
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58787.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62106
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="TVIReal.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvi-reality.png",· TVI Reality
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58847.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62108
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="PortoCanal.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/porto-canal.png",· Porto Canal
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58868.ts
-#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="PortoCanal.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/porto-canal.png",· Porto Canal
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58867.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62050
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="SicCaras.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-caras.png",· SIC Caras
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58799.ts
-#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="SicCaras.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-caras.png",· SIC Caras
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58800.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62062
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="sicmulher.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-mulher.png",· SIC Mulher
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58803.ts
-#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="sicmulher.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-mulher.png",· SIC Mulher
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58804.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62065
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-novelas.webp",· SIC Novelas
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62001
 
 
 
-#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="sicradical.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-radical.png",· SIC Radical
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58802.ts
-#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="sicradical.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-radical.png",· SIC Radical
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58801.ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="rtpmemoria.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-memoria.png",· RTP Memória
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58783.ts
-
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62059
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="CanalQ.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/canal-q.png",· Canal Q
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61989
 
 #EXTINF:-1 tvg-chno="52" group-title="Culinária" tvg-id="24Kitchen.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/24kitchen.png",· 24 Kitchen
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58842.ts
-#EXTINF:-1 tvg-chno="52" group-title="Culinária" tvg-id="24Kitchen.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/24kitchen.png",· 24 Kitchen
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58843.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61967
 #EXTINF:-1 tvg-chno="52" group-title="Culinária" tvg-id="FoodNetwork.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/food-network.png",· Food Network
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58845.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62011
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="Canal11.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/canal-11.png",· Canal 11
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/48564.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61985
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="SportTVplus.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv+.png",· SPORT TV +
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58878.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62077
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv1.png",· SPORT TV 1
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/31368.ts
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv1.png",· SPORT TV 1
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58879.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62071
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv2.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv2.png",· SPORT TV 2
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58880.ts
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv2.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv2.png",· SPORT TV 2
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58881.ts
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv3.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv3.png",· SPORT TV 3
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58882.ts
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv3.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv3.png",· SPORT TV 3
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58883.ts
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv4.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv4.png",· SPORT TV 4
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58884.ts
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv4.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv4.png",· SPORT TV 4
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58885.ts
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv5.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv5.png",· SPORT TV 5
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58886.ts
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv5.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv5.png",· SPORT TV 5
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58887.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62079
 
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv4.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv4.png",· SPORT TV 4
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62074
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv5.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv5.png",· SPORT TV 5
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62082
 
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="NBA.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv-nba.webp",· SPORT TV NBA
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62042
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="NBA.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv-nba.webp",· SPORT TV NBA
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62076
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="Eurosport1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eurosport-1.png",· EUROSPORT 1
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58870.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62004
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="Eurosport1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eurosport-1.png",· EUROSPORT 1
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58871.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62006
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="Eurosport2.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eurosport-2.png",· EUROSPORT 2
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58872.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62005
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="ABolaTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/a-bola-tv.png",· A Bola TV
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58869.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61968
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="BTV1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/btv.png",· BTV
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58877.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61984
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="BTV1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/btv.png",· BTV
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/95819.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61981
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="SPORTINGTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporting-tv.png",· Sporting TV
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58875.ts
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-1.png",· ELEVEN SPORTS 1
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58888.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62083
+
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports2.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-2.png",· ELEVEN SPORTS 2
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58889.ts
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports3.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-3.png",· ELEVEN SPORTS 3
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58890.ts
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports4.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-4.png",· ELEVEN SPORTS 4
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58891.ts
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports5.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-5.png",· ELEVEN SPORTS 5
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58892.ts
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports6.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-6.png",· ELEVEN SPORTS 6
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58893.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62033
 
 
 
+
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="pfc.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/premiere.png",· Premiere
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62049
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="Motorvision.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/motorvision.png",· Motorvision
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62035
+
+
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/fightbox.png",· Fight BOX HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62009
 
 
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="cazaepesca.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/caza-pesca.png",· Caza y Pesca
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58850.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61991
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="CacaVision.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cazavision.png",· Caçavision
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61990
 
 
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="FuelTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/fuel-tv.png",· Fuel TV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62024
 
 
 
 
 #EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="disneychannel.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/disney-channel.png",· Disney Channel
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58865.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61999
 #EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="DisneyJunior.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/disney-junior.png",· Disney Junior
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58864.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62000
 
 
-#EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="cartoon.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cartoon-network.png",· Cartoon Network
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58860.ts
+
 #EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="canalpanda.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/panda.png",· Canal Panda
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58862.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61988
 
 #EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="PandaBiggs.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/biggs.png",· Panda BIGGS
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58863.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62048
+#EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="PandaBiggs.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/biggs.png",· Panda BIGGS
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61982
 #EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="SicK.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-k.png",· SIC K
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58858.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62064
 
 #EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="Nickelodeon.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/nickelodeon.png",· Nickelodeon
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58859.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62043
 
 
 #EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="BabyTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/babytv.png",· Baby TV
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58861.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61980
 
 
 
@@ -161,72 +137,73 @@ http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58861.ts
 
 
 
-
+#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="NOSStudios.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/nos-studios.png",· NOS Studios
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62044
 
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="hollywood.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/hollywod.png",· Hollywood
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58819.ts
-#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="hollywood.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/hollywod.png",· Hollywood
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58820.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62027
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="Cinemundo.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cinemundo.png",· CineMundo
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58818.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61992
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="FoxMovies.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-movies.webp",· Star Movies
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58823.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62020
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="fox.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-channel.webp",· Star Channel
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58829.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62017
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="foxlife.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-life.webp",· Star Life
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58827.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62019
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="foxcrime.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-crime.webp",· Star Crime
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58821.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62014
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="FOXComedy.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-comedy.webp",· Star Comedy
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58825.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62012
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="axn.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/axn.png",· AXN
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58835.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61974
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="axn.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/axn.png",· AXN
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58836.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61977
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="AXNWhite.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/axn-white.png",· AXN WHITE
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58837.ts
-#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="AXNWhite.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/axn-white.png",· AXN WHITE
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58838.ts
-
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61979
+#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="AXNMovies.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/axn-movies.png",· AXN Movies
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61975
 
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="AMC.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/amc.png",· AMC
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58834.ts
-#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="AMC.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/amc.png",· AMC
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58833.ts
-
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61971
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="AMCBreak.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/amc-break.png",· AMC Break
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61983
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="SyFy.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/syfy.png",· SYFY
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58831.ts
-#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="SyFy.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/syfy.png",· SYFY
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58832.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62084
 
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="FashionTVEurope.fr" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/fashion-tv.png",· Fashion TV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62007
 
-
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="E!Entertainment.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/entertainment.png",· E! Entertainment
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62002
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="TLC.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tlc.png",· TLC
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58830.ts
-#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="CasaCozinha.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/casa-cozinha.png",· Casa e Cozinha
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58844.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62087
+
+
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="GloboNow.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/globo-now.webp",· Globo Now
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62026
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/a&e.png",· A&E
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61969
 
 
 
 
 
-
-
-
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="ZAPViva.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/zap-viva.png",· ZAP VIVA
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62110
 
 
 #EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="TravelChannel.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/travel-channel.png",· Travel Channel
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58854.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62091
 #EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="discoverychannel.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/discovery.png",· Discovery Channel
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58853.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61996
 #EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="NatGeo.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/national-geographic.png",· National Geographic
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58851.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62041
 #EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="NatGeoWild.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/national-geographic-wild.png",· National Geographic WILD
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58852.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62040
 #EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="CanalHistoria.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/historia.webp",· Canal História
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58855.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61987
 #EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="odisseia.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/odisseias.png",· Odisseia
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58849.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62046
 
 
 
@@ -234,11 +211,35 @@ http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58849.ts
 
 
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="RTPMadeira.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-madeira.png",· RTP Madeira
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58784.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62058
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-acores.png",· RTP Açores
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58785.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62057
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="RTPAfrica.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-africa.png",· RTP África
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58786.ts
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62056
+
+
+
+#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="Euronews.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/euro-news.png",· Euronews PT
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62003
+
+
+#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="TPAInternacional.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tpa.png",· TPA Notícias
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62089
+#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="TCVInternacional.cv" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tcv.png",· TCV Cabo Verde
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62086
+#EXTINF:-1 tvg-chno="110" group-title="Música" tvg-id="mtvportugal.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/mtv-portugal.png",· MTV Portugal
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62036
+
+
+
+
+
+
+#EXTINF:-1 tvg-chno="110" group-title="Música" tvg-id="AfroMusic.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/afro-music.png",· Afro Music
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61970
+
+#EXTINF:-1 tvg-chno="110" group-title="Música" tvg-id="58" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/canal-180.png",· Canal 180
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61986
 
 
 
@@ -258,37 +259,15 @@ http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/58786.ts
 
 
 
+#EXTINF:-1 tvg-chno="150" group-title="Religião" tvg-id="KURIAKOSTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/kuriakos.png",· KuriakosTV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62029
+#EXTINF:-1 tvg-chno="150" group-title="Religião" tvg-id="Localvisao.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/localvisao-tv.png",· Localvisão TV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62031
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-chno="150" group-title="Religião" tvg-id="CANCAONOVA.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cancao-nova.webp",· Canção Nova
-http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/107845.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-chno="170" group-title="Adulto" tvg-id="Hot.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/hot.webp",· HOT
+http://paradyse.xyz:8880/live/E3HUMXXswQ7X9/cWTM9PbFCVQC7/147.m3u8
 
 
 

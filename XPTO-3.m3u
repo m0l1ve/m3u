@@ -1,497 +1,628 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="rtp1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-1.png",· RTP 1
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107451&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57049&extension=ts
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="rtp1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-1.png",· RTP 1
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107452&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57050&extension=ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="rtp1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-1.png",· RTP 1
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461077&extension=ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="rtp1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-1.png",· RTP 1
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461076&extension=ts
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="rtp2.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-2.png",· RTP 2
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107449&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57051&extension=ts
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="rtp2.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-2.png",· RTP 2
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107450&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57052&extension=ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="rtp2.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-2.png",· RTP 2
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461079&extension=ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="rtp2.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-2.png",· RTP 2
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461078&extension=ts
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="sic.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic.webp",· SIC
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107442&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57115&extension=ts
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="sic.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic.webp",· SIC
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107444&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57116&extension=ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="sic.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic.webp",· SIC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461081&extension=ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="sic.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic.webp",· SIC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461080&extension=ts
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvi.webp",· TVI
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107417&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57062&extension=ts
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvi.webp",· TVI
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107525&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57063&extension=ts
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvi.webp",· TVI
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461083&extension=ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvi.webp",· TVI
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461082&extension=ts
 #EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="sicnoticias.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-noticias.png",· SIC Notícias
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107439&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461141&extension=ts
 #EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="sicnoticias.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-noticias.png",· SIC Notícias
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=368055&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57123&extension=ts
 #EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="sicnoticias.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-noticias.png",· SIC Notícias
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=461141&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57124&extension=ts
 #EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="sicnoticias.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-noticias.png",· SIC Notícias
-https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461140&extension=ts
 #EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-3.png",· RTP 3
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107529&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57053&extension=ts
 #EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-3.png",· RTP 3
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107448&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461143&extension=ts
+#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-3.png",· RTP 3
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57054&extension=ts
+#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-3.png",· RTP 3
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461142&extension=ts
 #EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cnn-portugal.png",· CNN Portugal
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107416&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461145&extension=ts
 #EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cnn-portugal.png",· CNN Portugal
-https://bit.ly/41Pufgt
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57226&extension=ts
+#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cnn-portugal.png",· CNN Portugal
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57064&extension=ts
+#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cnn-portugal.png",· CNN Portugal
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461144&extension=ts
 #EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="CMTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cm-tv.png",· CMTV
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=368054&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461147&extension=ts
 #EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="CMTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cm-tv.png",· CMTV
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107503&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57084&extension=ts
 #EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="CMTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cm-tv.png",· CMTV
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=461147&extension=ts
-#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="CMTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cm-tv.png",· CMTV
-http://mol-2.com:8080/live/FnB395KegENkUxB/mdp0fspYNCHqt7A/57086.ts
-#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="CMTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cm-tv.png",· CMTV
-http://rafadnsvip.live:8080/henrique123val/val456henrique/23
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461146&extension=ts
+#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="Now.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/news-now.png",· News Now
+http://deluxum.xyz:8080/live/eagle/eagle/538541.ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="TVGlobo.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/globo.png",· Globo
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107409&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461093&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="TVGlobo.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/globo.png",· Globo
-http://magmas5.com:8000/live/VictorRey/2DM9UKZTHW/161542.ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57087&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="TVGlobo.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/globo.png",· Globo
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57107&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="TVGlobo.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/globo.png",· Globo
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461092&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="TVGlobo.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/globo.png",· Globo
+http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:1F:6D:d5&stream=30296&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="TVIFiccao.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvi-ficcao.png",· TVI Ficção
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107415&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57065&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="TVIFiccao.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvi-ficcao.png",· TVI Ficção
-https://bit.ly/3gejKxf
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461097&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="TVIFiccao.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvi-ficcao.png",· TVI Ficção
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461096&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="TVIReal.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvi-reality.png",· TVI Reality
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107414&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461099&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="TVIReal.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvi-reality.png",· TVI Reality
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57066&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="TVIReal.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvi-reality.png",· TVI Reality
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461100&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="TVIReal.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvi-reality.png",· TVI Reality
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461098&extension=ts
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="PortoCanal.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/porto-canal.png",· Porto Canal
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107454&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57090&extension=ts
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="PortoCanal.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/porto-canal.png",· Porto Canal
-https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/profile_0/chunklist_dvr.m3u8
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57068&extension=ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="PortoCanal.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/porto-canal.png",· Porto Canal
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461085&extension=ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="PortoCanal.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/porto-canal.png",· Porto Canal
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461084&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="SicCaras.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-caras.png",· SIC Caras
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=379384&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57117&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="SicCaras.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-caras.png",· SIC Caras
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107443&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461115&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="SicCaras.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-caras.png",· SIC Caras
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=461115&extension=ts
-#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="SicCaras.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-caras.png",· SIC Caras
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287205&amp;f=.ch
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461114&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="sicmulher.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-mulher.png",· SIC Mulher
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107440&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461091&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="sicmulher.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-mulher.png",· SIC Mulher
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=379383&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57120&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="sicmulher.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-mulher.png",· SIC Mulher
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=461091&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461090&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="sicmulher.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-mulher.png",· SIC Mulher
-http://rafadnsvip.live:8080/henrique123val/val456henrique/17
-#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-novelas.webp",· SIC Novelas
-http://1.raspy1.xyz:80/live/ahmetgold/avusturya.110422m/237623.ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57119&extension=ts
 
 
+
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="sicradical.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-radical.png",· SIC Radical
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=379382&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461108&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="sicradical.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-radical.png",· SIC Radical
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107438&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57126&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="sicradical.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-radical.png",· SIC Radical
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=461108&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461107&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="sicradical.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-radical.png",· SIC Radical
-http://rafadnsvip.live:8080/henrique123val/val456henrique/22165
+http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:1F:6D:d5&stream=30300&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="rtpmemoria.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-memoria.png",· RTP Memória
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107445&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461105&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="rtpmemoria.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-memoria.png",· RTP Memória
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:b6:3f:5c&stream=461105&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="rtpmemoria.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-memoria.png",· RTP Memória
+http://ns31617126.ip-162-19-37.eu:8080/play/live.php?mac=00:1A:79:B1:7C:E4&stream=461105&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="CanalQ.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/canal-q.png",· Canal Q
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107508&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57082&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="CanalQ.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/canal-q.png",· Canal Q
-http://rafadnsvip.live:8080/henrique123val/val456henrique/169
-#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="CanalQ.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/canal-q.png",· Canal Q
-http://acsc.cc:80/970833/5ttvMV/191434.ts
-#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="CanalQ.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/canal-q.png",· Canal Q
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112052&amp;f=.ch
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461106&extension=ts
 
 #EXTINF:-1 tvg-chno="52" group-title="Culinária" tvg-id="24Kitchen.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/24kitchen.png",· 24 Kitchen
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107523&extension=ts
-
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461268&extension=ts
+#EXTINF:-1 tvg-chno="52" group-title="Culinária" tvg-id="24Kitchen.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/24kitchen.png",· 24 Kitchen
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:b6:3f:5c&stream=461268&extension=ts
+#EXTINF:-1 tvg-chno="52" group-title="Culinária" tvg-id="24Kitchen.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/24kitchen.png",· 24 Kitchen
+http://ns31617126.ip-162-19-37.eu:8080/play/live.php?mac=00:1A:79:B1:7C:E4&stream=461268&extension=ts
+#EXTINF:-1 tvg-chno="52" group-title="Culinária" tvg-id="FoodNetwork.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/food-network.png",· Food Network
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57161&extension=ts
+#EXTINF:-1 tvg-chno="52" group-title="Culinária" tvg-id="FoodNetwork.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/food-network.png",· Food Network
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461119&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="Canal11.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/canal-11.png",· Canal 11
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107524&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57081&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="Canal11.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/canal-11.png",· Canal 11
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=57081&extension=ts
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="Canal11.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/canal-11.png",· Canal 11
-http://metv.fun:80/3xuJn5/cKXT5w/119489.m3u8
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="Canal11.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/canal-11.png",· Canal 11
-http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZevIY-2MRW5NHdmLsyenLb7Z
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461164&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="SportTVplus.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv+.png",· SPORT TV +
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107437&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461168&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="SportTVplus.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv+.png",· SPORT TV +
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=368058&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461167&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="SportTVplus.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv+.png",· SPORT TV +
-http://rafadnsvip.live:8080/henrique123val/val456henrique/35
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="SportTVplus.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv+.png",· SPORT TV +
-https://nxt.plus:8443/olmos/1234guz/58191
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="SportTVplus.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv+.png",· SPORT TV +
-http://livein1.com:2095/play/live.php?mac=00:1a:79:b1:85:5e&extension=m3u8&stream=70485
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57176&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv1.png",· SPORT TV 1
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=148671&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57177&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv1.png",· SPORT TV 1
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107436&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57178&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv1.png",· SPORT TV 1
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=461174&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461174&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv1.png",· SPORT TV 1
-http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv1.png",· SPORT TV 1
-http://allgames.onlygames.co:43666/peermk1/peeer@mk2/543
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461173&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv2.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv2.png",· SPORT TV 2
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107435&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57179&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv2.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv2.png",· SPORT TV 2
-http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57180&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv2.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv2.png",· SPORT TV 2
-https://nxt.plus:8443/olmos/1234guz/23426&amp;f=.ch
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461176&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv2.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv2.png",· SPORT TV 2
-http://allgames.onlygames.co:43666/peermk1/peeer@mk2/544
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461175&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv3.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv3.png",· SPORT TV 3
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107434&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57181&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv3.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv3.png",· SPORT TV 3
-http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57182&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv3.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv3.png",· SPORT TV 3
-http://rafadnsvip.live:8080/henrique123val/val456henrique/51
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv3.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv3.png",· SPORT TV 3
-http://5ce.co:80/Maracanau007/97548927Fot/167481&amp;f=.ch
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv3.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv3.png",· SPORT TV 3
-http://allgames.onlygames.co:43666/peermk1/peeer@mk2/545
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461178&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv4.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv4.png",· SPORT TV 4
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107433&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57183&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv4.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv4.png",· SPORT TV 4
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=148668&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461180&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv4.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv4.png",· SPORT TV 4
-http://xciptv.aplicativos.top:80/live/884202033/r537B8146t/112002.ts
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv4.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv4.png",· SPORT TV 4
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8012&amp;f=.ch
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv4.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv4.png",· SPORT TV 4
-http://allgames.onlygames.co:43666/peermk1/peeer@mk2/546
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461179&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv5.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv5.png",· SPORT TV 5
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=148667&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461182&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv5.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv5.png",· SPORT TV 5
-http://rafadnsvip.live:8080/henrique123val/val456henrique/283
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461181&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv5.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv5.png",· SPORT TV 5
-http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZetLWQUIBC6WjuaS2A8M8Yin
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="sporttv5.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv5.png",· SPORT TV 5
-http://allgames.onlygames.co:43666/peermk1/peeer@mk2/3755
+http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:1F:6D:d5&stream=30331&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="SportTV6.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv6.png",· SPORT TV 6
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=712739&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461183&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="NBA.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv-nba.webp",· SPORT TV NBA
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107431&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57204&extension=ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="NBA.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporttv-nba.webp",· SPORT TV NBA
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461184&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="Eurosport1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eurosport-1.png",· EUROSPORT 1
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107488&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57195&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="Eurosport1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eurosport-1.png",· EUROSPORT 1
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=461198&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461198&extension=ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="Eurosport1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eurosport-1.png",· EUROSPORT 1
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461197&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="Eurosport2.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eurosport-2.png",· EUROSPORT 2
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107487&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461200&extension=ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="Eurosport2.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eurosport-2.png",· EUROSPORT 2
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461199&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="ABolaTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/a-bola-tv.png",· A Bola TV
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107522&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461166&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="ABolaTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/a-bola-tv.png",· A Bola TV
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=57074&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57074&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="ABolaTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/a-bola-tv.png",· A Bola TV
-http://rafadnsvip.live:8080/henrique123val/val456henrique/27
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="ABolaTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/a-bola-tv.png",· A Bola TV
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/3248
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461165&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="BTV1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/btv.png",· BTV
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107511&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57079&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="BTV1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/btv.png",· BTV
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=983567&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461170&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="BTV1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/btv.png",· BTV
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=57078&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461169&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="BTV1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/btv.png",· BTV
-http://213.13.16.138/shls/LIVE%24Benfica_TV_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="BTV1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/btv.png",· BTV
-http://s.apkwuv.xyz:80/demopadexchange/demopad/139487
+http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:1F:6D:d5&stream=30328&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="SPORTINGTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporting-tv.png",· Sporting TV
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107430&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461172&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="SPORTINGTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporting-tv.png",· Sporting TV
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=57205&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57205&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="SPORTINGTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sporting-tv.png",· Sporting TV
-http://777485463159319007.ofe0229.xyz:80/play/jean81/jean09092022/319007.ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461171&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-1.png",· ELEVEN SPORTS 1
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107495&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57185&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-1.png",· ELEVEN SPORTS 1
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461186&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-1.png",· ELEVEN SPORTS 1
-http://fortv.cc:8080/N0QaDD/625713/35264
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461185&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-1.png",· ELEVEN SPORTS 1
-http://allgames.onlygames.co:43666/peermk1/peeer@mk2/3757
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports1.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-1.png",· ELEVEN SPORTS 1
-http://5ce.co:80/live/Maracanau007/97548927Fot/167483.ts
+http://ledir.thund.re:80/play/live.php?mac=00:1a:79:25:50:a8&stream=548317&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports2.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-2.png",· ELEVEN SPORTS 2
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107494&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57189&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports2.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-2.png",· ELEVEN SPORTS 2
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461188&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports2.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-2.png",· ELEVEN SPORTS 2
-https://nxt.plus:8443/olmos/1234guz/168837
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports2.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-2.png",· ELEVEN SPORTS 2
-http://allgames.onlygames.co:43666/peermk1/peeer@mk2/3758
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports2.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-2.png",· ELEVEN SPORTS 2
-http://amazingiptv.live:8080/Friebestick/321friebe/423415
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461187&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports3.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-3.png",· ELEVEN SPORTS 3
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=122484&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57186&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports3.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-3.png",· ELEVEN SPORTS 3
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107493&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461190&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports3.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-3.png",· ELEVEN SPORTS 3
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461189&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports3.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-3.png",· ELEVEN SPORTS 3
-http://allgames.onlygames.co:43666/peermk1/peeer@mk2/3759
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57190&extension=ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports3.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-3.png",· ELEVEN SPORTS 3
+http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:1F:6D:d5&stream=45107&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports4.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-4.png",· ELEVEN SPORTS 4
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=122485&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57191&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports4.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-4.png",· ELEVEN SPORTS 4
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107492&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461191&extension=ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports4.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-4.png",· ELEVEN SPORTS 4
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461192&extension=ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports4.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-4.png",· ELEVEN SPORTS 4
+http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:1F:6D:d5&stream=45108&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports5.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-5.png",· ELEVEN SPORTS 5
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=122486&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57192&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports5.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-5.png",· ELEVEN SPORTS 5
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107491&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57187&extension=ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports5.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-5.png",· ELEVEN SPORTS 5
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461193&extension=ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports5.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-5.png",· ELEVEN SPORTS 5
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461194&extension=ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports5.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-5.png",· ELEVEN SPORTS 5
+http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:1F:6D:d5&stream=45109&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports6.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-6.png",· ELEVEN SPORTS 6
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107490&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461196&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="elevensports6.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/eleven-6.png",· ELEVEN SPORTS 6
-http://cp4.cpui.xyz:80/live/121Andreb/An9607601/144065.m3u8
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="pfc.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/premiere.png",· Premiere
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107456&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461195&extension=ts
+
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="Motorvision.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/motorvision.png",· Motorvision
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107468&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57202&extension=ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="Motorvision.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/motorvision.png",· Motorvision
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57203&extension=ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="Motorvision.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/motorvision.png",· Motorvision
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461203&extension=ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="Motorvision.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/motorvision.png",· Motorvision
+http://45.158.254.15:80/play/live.php?mac=00:1a:79:1D:13:13&stream=107468&extension=ts
+
+
 
 
 
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="cazaepesca.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/caza-pesca.png",· Caza y Pesca
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107616&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461270&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="cazaepesca.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/caza-pesca.png",· Caza y Pesca
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107510&extension=ts
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="cazaepesca.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/caza-pesca.png",· Caza y Pesca
-https://nxt.plus:8443/olmos/1234guz/23121&amp;f=.ch
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57154&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="CacaVision.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cazavision.png",· Caçavision
-https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:39_HD.smil/index.m3u8
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57080&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="CacaVision.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cazavision.png",· Caçavision
-http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZeu2TWpzXexMzVoHvbpQSa3-
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="CacaVision.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cazavision.png",· Caçavision
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112078&amp;f=.ch
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/campo-pequeno-tv.webp",· Campo Pequeno TV
-http://acsc.cc:80/970833/5ttvMV/191309.ts
-#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/campo-pequeno-tv.webp",· Campo Pequeno TV
-http://1.raspy1.xyz:80/live/ahmetgold/avusturya.110422m/237548.ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461271&extension=ts
+
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="OneToroTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/onetoro.png",· OneToro TV
+http://2gb1.tvcdn.online:8080/play/live.php?mac=00:1A:79:11:2F:EF&stream=94390&extension=ts
 #EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="FuelTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/fuel-tv.png",· Fuel TV
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107479&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57163&extension=ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="FuelTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/fuel-tv.png",· Fuel TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461111&extension=ts
+#EXTINF:-1 tvg-chno="125" group-title="Desporto" tvg-id="FuelTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/fuel-tv.png",· Fuel TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57162&extension=ts
+
 
 
 
 #EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="disneychannel.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/disney-channel.png",· Disney Channel
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107498&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461208&extension=ts
 #EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="disneychannel.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/disney-channel.png",· Disney Channel
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=461208&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57148&extension=ts
 #EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="DisneyJunior.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/disney-junior.png",· Disney Junior
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107497&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461213&extension=ts
 #EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="DisneyJunior.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/disney-junior.png",· Disney Junior
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=57147&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57147&extension=ts
 #EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/disney+.png",· Disney+
-http://acsc.cc:80/970833/5ttvMV/191378.ts
-#EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/disney-pixar.png",· Disney+ Pixar
-http://acsc.cc:80/970833/5ttvMV/191235.ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461214&extension=ts
+
 #EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="cartoon.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cartoon-network.png",· Cartoon Network
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107506&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461215&extension=ts
 #EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="cartoon.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cartoon-network.png",· Cartoon Network
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=461215&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57145&extension=ts
 #EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="canalpanda.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/panda.png",· Canal Panda
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107509&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461211&extension=ts
 #EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="canalpanda.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/panda.png",· Canal Panda
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=461211&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461210&extension=ts
+#EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="canalpanda.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/panda.png",· Canal Panda
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57146&extension=ts
 
 #EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="PandaBiggs.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/biggs.png",· Panda BIGGS
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107514&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461212&extension=ts
 #EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="PandaBiggs.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/biggs.png",· Panda BIGGS
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=461212&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57150&extension=ts
 #EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="SicK.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-k.png",· SIC K
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107441&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461219&extension=ts
+#EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="SicK.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-k.png",· SIC K
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57122&extension=ts
+#EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="SicK.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-k.png",· SIC K
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57121&extension=ts
+#EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="SicK.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-k.png",· SIC K
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461218&extension=ts
 #EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="Cartoonito.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cartoonito.png",· Cartoonito
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=996540&extension=ts
+http://line.iptveros.com:80/play/live.php?mac=00:1A:79:D1:33:00&stream=996540&extension=ts
 #EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="Nickelodeon.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/nickelodeon.png",· Nickelodeon
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107460&extension=ts
-#EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="Nickelodeon.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/nickelodeon.png",· Nickelodeon
-http://acsc.cc:80/970833/5ttvMV/191383.ts
-
-
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461209&extension=ts
+#EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="PandaKIDS.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/panda-kids.png",· Panda Kids
+http://vip47.xyz:8080/play/live.php?mac=00:1A:79:4C:91:81&stream=75635&extension=ts
+#EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="NickJr.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/nickjr.png",· Nick Junior
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461216&extension=ts
 #EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="BabyTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/babytv.png",· Baby TV
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107515&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461217&extension=ts
+#EXTINF:-1 tvg-chno="103" group-title="Infantil/Juvenil" tvg-id="BabyTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/babytv.png",· Baby TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57143&extension=ts
 
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="TVCineACTION.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvcine-action.png",· TVCine Action
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107420&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57134&extension=ts
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="TVCineACTION.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvcine-action.png",· TVCine Action
-http://135.148.169.68:80/live/ottplayerchannel/JFYQWKNbCUe5/111963.ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461234&extension=ts
+#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="TVCineACTION.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvcine-action.png",· TVCine Action
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461233&extension=ts
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="TVCineEDITION.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvcine-edition.png",· TVCine Edition
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107422&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461230&extension=ts
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="TVCineEDITION.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvcine-edition.png",· TVCine Edition
-http://ultra-iptv.xyz:8080/live/EGEGhZw24A/cuR9Zps3CP/4609.ts
-#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="TVCineEDITION.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvcine-edition.png",· TVCine Edition
-http://rafadnsvip.live:8080/henrique123val/val456henrique/86
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461229&extension=ts
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="TVCineEMOTION.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvcine-emotion.png",· TVCine Emotion
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107421&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57136&extension=ts
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="TVCineEMOTION.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvcine-emotion.png",· TVCine Emotion
-http://amazingiptv.live:8080/live/Friebestick/321friebe/420339.ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57138&extension=ts
+#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="TVCineEMOTION.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvcine-emotion.png",· TVCine Emotion
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461232&extension=ts
+#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="TVCineEMOTION.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvcine-emotion.png",· TVCine Emotion
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461231&extension=ts
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="TVCineTOP.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvcine-top.png",· TVCine Top
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107423&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57140&extension=ts
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="TVCineTOP.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvcine-top.png",· TVCine Top
-http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZetwNV_HWT47Z06RwPzLI4BP
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461228&extension=ts
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="TVCineTOP.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvcine-top.png",· TVCine Top
-http://rafadnsvip.live:8080/henrique123val/val456henrique/84
-#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvcine-plus.png",· TVCine +
-http://acsc.cc:80/970833/5ttvMV/191172.ts
-#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvcine-plus.png",· TVCine +
-http://iptvtree.net:8080/F26646/f950f250/278686
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461227&extension=ts
 
 
-#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/marvel.png",· Marvel
-http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZeswtrD_0-mRulHesKEVbsrH
-#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/marvel.png",· Marvel
-http://135.148.169.68:80/live/ottplayerchannel/JFYQWKNbCUe5/111935.ts
-#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/marvel.png",· Marvel
-http://acsc.cc:80/970833/5ttvMV/191207.ts
-#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/netflix.png",· Netflix
-http://acsc.cc:80/970833/5ttvMV/191206.ts
-#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/netflix.png",· Netflix
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/24517
-#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/netflix.png",· Netflix
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=1028885&extension=ts
+
+
+
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="NOSStudios.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/nos-studios.png",· NOS Studios
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107459&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57132&extension=ts
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="NOSStudios.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/nos-studios.png",· NOS Studios
-http://acsc.cc:80/970833/5ttvMV/191186.ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461223&extension=ts
+#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="NOSStudios.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/nos-studios.png",· NOS Studios
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461224&extension=ts
 
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="hollywood.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/hollywod.png",· Hollywood
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107475&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57109&extension=ts
+#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="hollywood.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/hollywod.png",· Hollywood
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57110&extension=ts
+#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="hollywood.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/hollywod.png",· Hollywood
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461226&extension=ts
+#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="hollywood.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/hollywod.png",· Hollywood
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461225&extension=ts
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="Cinemundo.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cinemundo.png",· CineMundo
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107504&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461238&extension=ts
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="Cinemundo.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cinemundo.png",· CineMundo
-http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZeuZ1Ugp4BJ4luzvltEJ-j0B
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57128&extension=ts
+#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="Cinemundo.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cinemundo.png",· CineMundo
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461237&extension=ts
+#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="Cinemundo.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cinemundo.png",· CineMundo
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57129&extension=ts
+#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="Cinemundo.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cinemundo.png",· CineMundo
+http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:1F:6D:d5&stream=30309&extension=ts
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="FoxMovies.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-movies.webp",· Star Movies
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107482&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461236&extension=ts
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="FoxMovies.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-movies.webp",· Star Movies
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=461236&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461235&extension=ts
+#EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="FoxMovies.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-movies.webp",· Star Movies
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57131&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="fox.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-channel.webp",· Star Channel
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107484&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57100&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="fox.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-channel.webp",· Star Channel
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=461244&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461244&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="fox.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-channel.webp",· Star Channel
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461243&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="foxlife.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-life.webp",· Star Life
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107413&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461246&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="foxlife.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-life.webp",· Star Life
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107483&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57105&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="foxlife.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-life.webp",· Star Life
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461245&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="foxlife.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-life.webp",· Star Life
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57106&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="foxcrime.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-crime.webp",· Star Crime
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107485&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461248&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="foxcrime.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-crime.webp",· Star Crime
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=461248&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57103&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="foxcrime.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-crime.webp",· Star Crime
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461247&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="foxcrime.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-crime.webp",· Star Crime
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57104&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="FOXComedy.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-comedy.webp",· Star Comedy
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107486&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461250&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="FOXComedy.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-comedy.webp",· Star Comedy
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=951549&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57101&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="FOXComedy.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-comedy.webp",· Star Comedy
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461249&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="FOXComedy.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/star-comedy.webp",· Star Comedy
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57102&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="axn.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/axn.png",· AXN
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107517&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57095&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="axn.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/axn.png",· AXN
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=461252&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461252&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="axn.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/axn.png",· AXN
-http://rafadnsvip.live:8080/henrique123val/val456henrique/107
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461251&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="AXNWhite.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/axn-white.png",· AXN WHITE
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107516&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57096&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="AXNWhite.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/axn-white.png",· AXN WHITE
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=461254&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461253&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="AXNWhite.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/axn-white.png",· AXN WHITE
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287228&amp;f=.ch
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461254&extension=ts
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="AXNMovies.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/axn-movies.png",· AXN Movies
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=1069313&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57097&extension=ts
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="AXNMovies.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/axn-movies.png",· AXN Movies
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=461242&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461242&extension=ts
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="AXNMovies.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/axn-movies.png",· AXN Movies
-http://rafadnsvip.live:8080/henrique123val/val456henrique/109
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461241&extension=ts
 
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="AMC.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/amc.png",· AMC
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107520&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57094&extension=ts
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="AMC.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/amc.png",· AMC
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=122487&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57093&extension=ts
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="AMC.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/amc.png",· AMC
-http://mol-2.com:8080/live/FnB395KegENkUxB/mdp0fspYNCHqt7A/461240.ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461240&extension=ts
 #EXTINF:-1 tvg-chno="22" group-title="Cinema" tvg-id="AMC.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/amc.png",· AMC
-http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZetrASJV-2tlpZBysCcoEMKB
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461239&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="AMCBreak.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/amc-break.png",· AMC Break
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107513&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461110&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="AMCBreak.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/amc-break.png",· AMC Break
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461153&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="AMCBreak.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/amc-break.png",· AMC Break
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461288&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="SyFy.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/syfy.png",· SYFY
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=122488&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57111&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="SyFy.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/syfy.png",· SYFY
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107429&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57112&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="SyFy.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/syfy.png",· SYFY
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C6:3A:2A&stream=57111&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461256&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="SyFy.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/syfy.png",· SYFY
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286361&amp;f=.ch
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461255&extension=ts
 
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="FashionTVEurope.fr" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/fashion-tv.png",· Fashion TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461122&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="FashionTVEurope.fr" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/fashion-tv.png",· Fashion TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57160&extension=ts
 
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="E!Entertainment.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/entertainment.png",· E! Entertainment
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107496&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461116&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="TLC.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tlc.png",· TLC
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107428&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57070&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="TLC.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tlc.png",· TLC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461267&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="CasaCozinha.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/casa-cozinha.png",· Casa e Cozinha
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=379381&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461272&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="CasaCozinha.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/casa-cozinha.png",· Casa e Cozinha
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:BA:AE:11&stream=1021576&extension=ts
 
 
 
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/opto.png",· OPTO
-http://mol-2.com:8080/live/FnB395KegENkUxB/mdp0fspYNCHqt7A/461089.ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:b6:3f:5c&stream=461089&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/opto.png",· OPTO
-http://1.raspy1.xyz:80/live/ahmetgold/avusturya.110422m/237603.ts
-#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/opto.png",· OPTO
-http://iptvtree.net:8080/F26646/f950f250/299728
-
-
-
-
+http://ns31617126.ip-162-19-37.eu:8080/play/live.php?mac=00:1A:79:B1:7C:E4&stream=461089&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/big-brother.webp",· Big Brother #1
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461101&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/big-brother.webp",· Big Brother #2
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461102&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/big-brother.webp",· Big Brother #3
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461103&extension=ts
+#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/big-brother.webp",· Big Brother #4
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461104&extension=ts
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="ZAPViva.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/zap-viva.png",· ZAP VIVA
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107411&extension=ts
-#EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="ZAPViva.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/zap-viva.png",· ZAP VIVA
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=368057&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461286&extension=ts
+
 
 #EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="TravelChannel.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/travel-channel.png",· Travel Channel
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107426&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57172&extension=ts
+#EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="TravelChannel.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/travel-channel.png",· Travel Channel
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461121&extension=ts
+#EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="TravelChannel.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/travel-channel.png",· Travel Channel
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461120&extension=ts
 #EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="discoverychannel.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/discovery.png",· Discovery Channel
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107499&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461259&extension=ts
 #EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="discoverychannel.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/discovery.png",· Discovery Channel
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107500&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57157&extension=ts
 #EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="NatGeo.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/national-geographic.png",· National Geographic
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107465&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461262&extension=ts
+#EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="NatGeo.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/national-geographic.png",· National Geographic
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461263&extension=ts
+#EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="NatGeo.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/national-geographic.png",· National Geographic
+http://proxy1.darkbox.nu:80/play/live.php?mac=00:1A:79:1F:6D:d5&stream=30283&extension=ts
 #EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="NatGeoWild.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/national-geographic-wild.png",· National Geographic WILD
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107464&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57169&extension=ts
+#EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="NatGeoWild.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/national-geographic-wild.png",· National Geographic WILD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461264&extension=ts
 #EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="CanalHistoria.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/historia.webp",· Canal História
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107476&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461260&extension=ts
+#EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="CanalHistoria.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/historia.webp",· Canal História
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57153&extension=ts
 #EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="odisseia.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/odisseias.png",· Odisseia
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107458&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57171&extension=ts
+#EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="odisseia.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/odisseias.png",· Odisseia
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461261&extension=ts
 #EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-id="InvestigationDiscoveryEurope.us" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/investigation-discovery.png",· Investigation Discovery
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107474&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461265&extension=ts
 #EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/crime-district.webp",· Crime District
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107501&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461112&extension=ts
+#EXTINF:-1 tvg-chno="24" group-title="Documentários" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/crime-district.webp",· Crime District
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461287&extension=ts
 
 
 #EXTINF:-1 tvg-chno="27" group-title="Entretenimento" tvg-id="Splus.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/saude-mais.png",· SAÚDE+
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=368053&extension=ts
+http://line.iptveros.com:80/play/live.php?mac=00:1A:79:D1:33:00&stream=378343&extension=ts
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/artv.png",· ARTV
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107519&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57076&extension=ts
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/artv.png",· ARTV
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107457&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461150&extension=ts
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="RTPMadeira.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-madeira.png",· RTP Madeira
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107446&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461148&extension=ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="RTPMadeira.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-madeira.png",· RTP Madeira
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57056&extension=ts
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-acores.png",· RTP Açores
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107447&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57059&extension=ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="RTPAcores.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-acores.png",· RTP Açores
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461149&extension=ts
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="RTPAfrica.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-africa.png",· RTP África
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107453&extension=ts
-
-
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461087&extension=ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="RTPAfrica.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-africa.png",· RTP África
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57058&extension=ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="RTPInternacional.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-internacional.png",· RTP Internacional
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461276&extension=ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="RTPInternacional.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/rtp-internacional.png",· RTP Internacional
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57057&extension=ts
+#EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/sic-internacional.webp",· SIC Internacional
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461277&extension=ts
 #EXTINF:-1 tvg-chno="1" group-title="Generalista" tvg-id="TVIInt.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tvi-internacional.png",· TVI Internacional
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461278&extension=ts
 #EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="Euronews.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/euro-news.png",· Euronews PT
-https://bit.ly/46RyCcU
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461152&extension=ts
+#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/bloomberg-tv.png",· Bloomberg TV Europe
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461154&extension=ts
 
-
-
+#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="TPAInternacional.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tpa.png",· TPA Notícias
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57071&extension=ts
+#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="TPAInternacional.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tpa.png",· TPA Notícias
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461284&extension=ts
+#EXTINF:-1 tvg-chno="7" group-title="Notícias" tvg-id="TCVInternacional.cv" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/tcv.png",· TCV Cabo Verde
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461279&extension=ts
 #EXTINF:-1 tvg-chno="110" group-title="Música" tvg-id="mtvportugal.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/mtv-portugal.png",· MTV Portugal
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107467&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57216&extension=ts
+#EXTINF:-1 tvg-chno="110" group-title="Música" tvg-id="mtvportugal.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/mtv-portugal.png",· MTV Portugal
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461109&extension=ts
+#EXTINF:-1 tvg-chno="110" group-title="Música" tvg-id="mtvportugal.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/mtv-portugal.png",· MTV Portugal
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57215&extension=ts
+#EXTINF:-1 tvg-chno="110" group-title="Música" tvg-id="MTV00s.uk" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/mtv-00s.png",· MTV 00s
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461297&extension=ts
+#EXTINF:-1 tvg-chno="110" group-title="Música" tvg-id="MTV00s.uk" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/mtv-00s.png",· MTV 00s
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57219&extension=ts
 
 
-
-
+#EXTINF:-1 tvg-chno="110" group-title="Música" tvg-id="MCMPop.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/mcm-pop.png",· MCM Pop
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461293&extension=ts
+#EXTINF:-1 tvg-chno="110" group-title="Música" tvg-id="MCMPop.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/mcm-pop.png",· MCM Pop
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461292&extension=ts
+#EXTINF:-1 tvg-chno="110" group-title="Música" tvg-id="MCMPop.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/mcm-pop.png",· MCM Pop
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57214&extension=ts
 
 #EXTINF:-1 tvg-chno="110" group-title="Música" tvg-id="TraceUrban.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/trace-urban.png",· Trace Urban
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
-
-
-
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461290&extension=ts
+#EXTINF:-1 tvg-chno="110" group-title="Música" tvg-id="TraceUrban.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/trace-urban.png",· Trace Urban
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57218&extension=ts
+#EXTINF:-1 tvg-chno="110" group-title="Música" tvg-id="AfroMusic.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/afro-music.png",· Afro Music
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461294&extension=ts
+#EXTINF:-1 tvg-chno="110" group-title="Música" tvg-id="AfroMusic.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/afro-music.png",· Afro Music
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57209&extension=ts
+#EXTINF:-1 tvg-chno="110" group-title="Música" tvg-id="AlmaLusa.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/alma-lusa.webp",· Alma Lusa
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461298&extension=ts
+#EXTINF:-1 tvg-chno="110" group-title="Música" tvg-id="58" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/canal-180.png",· Canal 180
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461086&extension=ts
 #EXTINF:-1 tvg-chno="110" group-title="Música" tvg-id="mezzo.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/mezzo.png",· Mezzo
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107548&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461295&extension=ts
 #EXTINF:-1 tvg-chno="110" group-title="Música" tvg-id="mezzo.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/mezzo.png",· Mezzo
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107469&extension=ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57213&extension=ts
 
 
 
@@ -502,35 +633,34 @@ http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=107469&extensi
 
 
 
+
+
+#EXTINF:-1 tvg-chno="110" group-title="Música" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/stingray-music.png",· Stingray Iconcerts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461300&extension=ts
+#EXTINF:-1 tvg-chno="110" group-title="Música" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/stingray-music.png",· Stingray Iconcerts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:b6:3f:5c&stream=461300&extension=ts
+#EXTINF:-1 tvg-chno="110" group-title="Música" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/stingray-music.png",· Stingray Iconcerts
+http://ns31617126.ip-162-19-37.eu:8080/play/live.php?mac=00:1A:79:B1:7C:E4&stream=461300&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-chno="150" group-title="Religião" tvg-id="CANCAONOVA.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/cancao-nova.webp",· Canção Nova
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57083&extension=ts
+#EXTINF:-1 tvg-chno="150" group-title="Religião" tvg-id="KURIAKOSTV.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/kuriakos.png",· KuriakosTV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=461269&extension=ts
 #EXTINF:-1 tvg-chno="150" group-title="Religião" tvg-id="Localvisao.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/localvisao-tv.png",· Localvisão TV
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=425316&extension=ts
-
-
-
-#EXTINF:-1 tvg-chno="170" group-title="Adulto" tvg-id="Hot.pt" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/hot.webp",· HOT
-http://zyniptv.com:8080/iptv-volkan/HZS49fEXSgye/936
-#EXTINF:-1 tvg-chno="170" group-title="Adulto" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/hustler-tv.png",· Hustler TV
-http://146.59.54.163/348/index.m3u8
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=57089&extension=ts
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-chno="170" group-title="Adulto" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/brazzers.png",· Brazzers
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=428690&extension=ts
+#EXTINF:-1 tvg-chno="170" group-title="Adulto" tvg-logo="https://raw.githubusercontent.com/m0l1ve/logo/main/brazzers.png",· Brazzers²
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B5:A8:AA&stream=428691&extension=ts
 
 
 
